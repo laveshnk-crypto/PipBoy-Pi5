@@ -103,7 +103,6 @@ Add the following lines:
 dtoverlay=piscreen,speed=16000000,rotate=270
 framebuffer_width=480
 framebuffer_height=320
-gpu_mem=2048
 ```
 
 Reboot the Pi:
