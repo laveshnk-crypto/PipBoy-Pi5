@@ -51,7 +51,7 @@ cd C:\Path\To\Your\Desired\Directory
 
 3. **Download the `PipBoy` folder** as a `.zip` file from GitHub:
 ```powershell
-Invoke-WebRequest -Uri https://github.com/SurvivorGrim/PipBoy-Pi5/archive/refs/heads/main.zip -OutFile PipBoy-Pi5.zip
+Invoke-WebRequest -Uri https://github.com/laveshnk-crypto/PipBoy-Pi5/archive/refs/heads/main.zip -OutFile PipBoy-Pi5.zip
 ```
 
 4. **Extract the downloaded ZIP file**:
