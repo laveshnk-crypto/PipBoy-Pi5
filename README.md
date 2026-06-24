@@ -61,7 +61,7 @@ Expand-Archive -Path .\PipBoy-Pi5.zip -DestinationPath .\PipBoy-Pi5
 
 5. **Navigate into the `PipBoy` folder** within the extracted content:
  ```powershell
-cd .\PipBoy-Pi5-main\PipBoy\
+cd .\PipBoy-Pi5\PipBoy-Pi5-main\
  ```
    
 ## Copy PipBoy Files to Pi
